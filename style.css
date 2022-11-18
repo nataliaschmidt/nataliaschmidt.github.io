@@ -68,3 +68,7 @@ text-align: center;
 .contatos a:hover{
     color: black;
 }
+
+.logo-contatos{
+    width: 200px;
+}
